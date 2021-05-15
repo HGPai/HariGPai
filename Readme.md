@@ -1,4 +1,4 @@
-<h4> Hi There! </h4>
+<h2> Hi There! </h2>
 I'm [Harikrishnan Pai], a enthusiast interested in AI technology and its applications to commercial uses.
 I'm passionate about learning new technologies.
 
